@@ -1,0 +1,351 @@
+/* Formatação geral*/
+* {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+  text-decoration: none;
+  box-sizing: border-box;
+}
+
+:root{
+  --font-primary:"Open Sans", sans-serif;
+  --font-secondary:"Times New Roman", Times, serif;
+  --font-tertiary: sans-serif;
+  --font-action: "Martel", serif;
+}
+
+.change {
+  display: none;
+}
+
+h2 {
+  margin: 0;
+  font-family: var(--font-secondary);
+  font-weight: 700;
+  font-size: 25px;
+}
+
+/*Cabeçalho ou barra de navegação*/
+.logo {
+  display: flex;
+}
+.logo img {
+  border-radius: 30%;
+  width: 40%;
+}
+
+#header {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  background: rgb(8, 8, 8, 0.9);
+  padding: 10px;
+}
+
+#header h1 {
+  display: flex;
+  width: 25%;
+  align-items: center;
+  font-family: var(--font-primary);
+  font-size: 1.5rem;
+  font-weight: bold;
+  color: rgb(241, 148, 8);
+}
+#header h1 span {
+  margin-left: 10px;
+  color: rgba(79, 255, 10, 0.904);
+}
+
+.sidebar{
+  display: flex;
+  align-items: center;
+  width: 400px;
+}
+
+.menu-item{
+  display: inline;
+}
+
+.menu-item a {
+  color: #fff;
+  font-size: 1.5rem;
+  padding: 10px;
+  display: inline-block;
+}
+
+.hamburguer span {
+  opacity: 0;
+}
+p {
+  font-family: var(--font-primary);
+  margin-bottom: 30px;
+}
+
+p span {
+  font-size: 30px;
+  font-family: var(--font-primary);
+}
+
+.conteiner {
+  width: 100%;
+  height: 40vh;
+  background: #c5bc8e;
+}
+
+.contatos {
+  display: block;
+  background-color: #ccc;
+  padding: 10px;
+}
+.fa-whatsapp {
+  display: block;
+  width: 25 px;
+  float: left;
+  margin-right: 5px;
+  font-size: 1.2rem;
+  font-weight: bold;
+}
+
+.fa-whatsapp:before {
+  border: 1px solid #fff;
+  background-color: white;
+  border-radius: 4px;
+  padding: 2px;
+}
+
+.fa-phone {
+  display: block;
+  width: 25px;
+  float: left;
+  margin-right: 5px;
+  font-size: 1rem;
+  font-weight: bold;
+}
+
+.fa-phone:before {
+  border: 1px solid #fff;
+  background-color: white;
+  border-radius: 4px;
+  padding: 2px;
+}
+/*Header*/
+#servicos {
+  text-align: center;
+}
+.servicos {
+  font-size: 30px;
+  font-family: var(--font-tertiary);
+  font-weight: bold;
+  text-align: center;
+  margin-top: 30px;
+}
+
+#servicos .box {
+  display: inline-block;
+  align-items: center;
+  margin: 5px 0;
+  width: 250px;
+  text-align: center;
+  background: #eee6ab;
+  border-radius: 10px;
+}
+
+#servicos .box img {
+  width: 100%;
+  height: 250px;
+}
+#sobre {
+  display: flex;
+  height: 40vh;
+  text-align: center;
+  justify-content: center;
+  min-height: 40vh;
+  padding: 20px;
+  color: #000;
+}
+
+.texto {
+  width: 1000vw;
+  font-size: 130%;
+  font-weight: bold;
+}
+.rodape {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  background-color: darkgray;
+  height: 25vh;
+  align-items: center;
+}
+
+.endereco {
+  width: auto;
+}
+.mapa {
+  width: 30%;
+  margin-left: 10px;
+}
+
+.contatos {
+  display: block;
+}
+.contatos h3 {
+  display: flex;
+  justify-content: center;
+  font-size: 30px;
+}
+
+.contatos ul {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-evenly;
+}
+
+.contatos ul li a {
+  color: #000;
+  font-size: 25px;
+  font-weight: bold;
+}
+@media screen and (max-width: 768px) {
+  h1{
+    flex-direction: column;
+    margin-left: 10px;
+    justify-content: center;
+  }
+  
+.hamburguer{
+  width: 2rem;
+  height: 2rem;
+  position: fixed;
+  z-index: 100;
+  right: 2rem;
+  top: 2rem;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  cursor: pointer;
+}
+
+.line {
+  width: 100%;
+  height: .1rem;
+  background-color: #4fff0ae7;
+  box-shadow: 0.1rem 0.1rem 1px #000;
+  transition: transform 1s;
+}
+
+.show-menu #bar1{
+  transform: rotate(45deg) translate(.3rem, .95rem);
+}
+
+.show-menu #bar2{
+  opacity: 0;
+  visibility: hidden;
+}
+
+.show-menu #bar3{
+  transform: rotate(-45deg) translate(.3rem, -.90rem);
+}
+
+.hamburguer span {
+  position: absolute;
+  right: 3rem;
+  height: 2rem;
+  width: 6rem;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: #f19408;
+  text-transform: uppercase;
+  color: #000;
+  font-family: var(--font-action);
+  opacity: 0;
+}
+
+.hamburguer span::before {
+  content: "";
+  position: absolute;
+  border-right: .5rem solid transparent;
+  border-top: .5rem solid transparent;
+  border-left: .5rem solid #f19408;
+  border-bottom: .5rem solid transparent;
+  right: -1rem;
+}
+
+.show-menu .hamburguer:hover span{
+  opacity: 1;
+}
+.sidebar{
+  width: 15rem;
+  height: 40vh;
+  background-color: rgba(0, 0, 0, 0.95);
+  position: fixed;
+  top: 0;
+  right: -20rem;
+  transition: all 1.5s;
+}
+
+.show-menu .sidebar{
+  right: 0;
+}
+
+.menu {
+  position: absolute;
+  top: 60%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
+.menu-item {
+  text-align: center;
+  margin-bottom: .5rem;
+}
+
+
+.menu-item .menu-link{
+  font-family: var(--font-action);
+  font-size: 2rem;
+  display: flex;
+  color: #4fff0ae7;
+  font-weight: bold;
+  transition: color 1s;
+}
+
+.menu-item .menu-link:hover{
+  color:  #f19408;
+}
+
+  .rodape {
+    display: block;
+    height: 100%;
+  }
+  .endereco h2 {
+    font-size: 100%;
+    height: 100%;
+    text-align: center;
+    margin: 0 10px 10px 10px;
+    padding: 10px;
+  }
+  .mapa {
+    width: 100%;
+    margin: 30px 20px 10px 20px;
+  }
+
+  .conteiner{
+    display: block;
+    margin-top: 200px;
+    height: 50vh;
+  }
+
+  .contatos h3 {
+    font-size: 100%;
+  }
+
+  .contatos ul li a {
+    font-size: 100%;
+    padding: 5px;
+  }
+  
+
+
+}
