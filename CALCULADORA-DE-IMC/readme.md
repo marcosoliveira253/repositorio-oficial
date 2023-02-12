@@ -10,4 +10,4 @@
 # imagem
 ![calculadora de imc](./image/calculadora%20de%20imc.png)
 # link da página
-(https://imc-calculator-v1.netlify.app/ target="_blank")
+(https://imc-calculator-v1.netlify.app/)
