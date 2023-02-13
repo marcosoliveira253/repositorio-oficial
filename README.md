@@ -12,11 +12,12 @@ Aqui estão alguns dos meus projetos.
 <div style="display:inline"> 
   <a href = "mailto:marcosoliveira253.mo@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/marcos-oliveira253" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  
   <a href="https://github.com/marcosoliveira253/repositorio-oficial" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a> 
 </div>
 <br>
 <div>
-  <a href="https://beacons.ai/marcosoliveira253">
+  <a href="https://beacons.ai/marcosoliveira253/repositorio-oficial">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=marcosoliveira253&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcosoliveira253&layout=compact&langs_count=16&theme=dark"/>
   </a>
