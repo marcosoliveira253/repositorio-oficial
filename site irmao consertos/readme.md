@@ -9,4 +9,3 @@
 
 # Imagem
 <img src="img/pagina web.jpeg" width="500px">
-<img src="site irmao consertos/img/pagina mobile.jpeg" width="500px #rigth>
