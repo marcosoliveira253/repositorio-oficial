@@ -8,4 +8,5 @@
 <li>Esse site foi criado para uma assistência técnica de eletrodomesticos, está responsivo para mobile.</li>
 
 # Imagem
-<img src="img/pagina web.jpeg" width="300px">
+<img src="img/pagina web.jpeg" width="500px">
+<img src="img/pagina mobile.jpeg" width="500px>
