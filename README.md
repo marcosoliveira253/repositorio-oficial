@@ -13,7 +13,7 @@ Aqui estão alguns dos meus projetos.
   <a href = "mailto:marcosoliveira253.mo@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/marcos-oliveira253" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   
-  <a href="https://github.com/marcosoliveira253/repositorio-oficial" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a> 
+  <a href="https://github.com/marcosoliveira253/marcosoliveira253" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a> 
 </div>
 <br>
 <div>
@@ -23,4 +23,4 @@ Aqui estão alguns dos meus projetos.
   </a>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=marcosoliveira253&" alt="marcosoliveira253" /></p>
 
-![ Animação de cobra ]( https://github.com/marcosoliveira253/repositorio-oficial/blob/output/github-contribution-grid-snake.svg )
+![ Animação de cobra ]( https://github.com/marcosoliveira253/marcosoliveira253/blob/output/github-contribution-grid-snake.svg )
