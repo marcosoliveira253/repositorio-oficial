@@ -17,7 +17,7 @@ Aqui estão alguns dos meus projetos.
 </div>
 <br>
 <div>
-  <a href="https://beacons.ai/marcosoliveira253/repositorio-oficial">
+  <a href="https://beacons.ai/repositorio-oficial">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=marcosoliveira253&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcosoliveira253&layout=compact&langs_count=16&theme=dark"/>
   </a>
