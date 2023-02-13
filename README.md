@@ -1,6 +1,6 @@
 # repositorio-oficial
 Aqui estão alguns dos meus projetos.
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=marcosoliveira253&label=Visualizacao&color=blue&style=flat"alt="marcosoliveira253"></p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=repositorio-oficial&label=Visualizacao&color=blue&style=flat"alt="repositorio-oficial"></p>
 <h1 align="center">Olá 👋, sou Marcos Oliveira, sou desenvolvedor front-end</h1>
 
 - 🌱 Atualmente estou aprendendo e criando projetos com:
@@ -17,10 +17,10 @@ Aqui estão alguns dos meus projetos.
 </div>
 <br>
 <div>
-  <a href="https://beacons.ai/repositorio-oficial">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=marcosoliveira253&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcosoliveira253&layout=compact&langs_count=16&theme=dark"/>
+  <a href="https://github.com/marcosoliveira253">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=repositorio-oficial&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=repositorio-oficial&layout=compact&langs_count=16&theme=dark"/>
   </a>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=marcosoliveira253&" alt="marcosoliveira253" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=repositorio-oficial&" alt="repositorio-oficial" /></p>
 
 ![ Animação de cobra ]( https://github.com/marcosoliveira253/marcosoliveira253/blob/output/github-contribution-grid-snake.svg )
